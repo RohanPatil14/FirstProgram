@@ -1,4 +1,5 @@
 # FirstProgram
 This is my first Git Repository
 <br>
-Author - Rohan Patil
+<h1 style = "Color : Red ">
+Author - Rohan Patil</h1>
