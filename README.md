@@ -1,5 +1,5 @@
 # FirstProgram
 This is my first Git Repository
 <br>
-<h1>
-Author - Rohan Patil</h1>
+<h3>
+Author - Rohan Patil</h3>
